@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I write code for audio people.
-Currently wrangling the left & rights at @descriptinc<br>
-Formerly 16yr @adobe veteran working on Adobe Audition & Premiere Pro
+Previously wrangling the left & rights at @descriptinc<br>
+Also 16yr @adobe veteran working on Adobe Audition & Premiere Pro
 
 <!--
 
