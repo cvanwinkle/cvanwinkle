@@ -2,6 +2,7 @@
 
 I write code for audio people.
 Currently at [@facebook](https://github.com/facebook)
+
 Previously at [@descriptinc](https://github.com/descriptinc), and a 16yr [@adobe](https://github.com/adobe) veteran working on Adobe Audition & Premiere Pro
 
 <!--
